@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/240136621.svg)](https://zenodo.org/badge/latestdoi/240136621)
+
 Data Extraction Repository for
 R.A Makin and S.M. Durbin, “Structural motifs: A potential pathway to superconductivity at standard temperature and pressure.”
 
