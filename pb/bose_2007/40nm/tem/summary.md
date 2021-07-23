@@ -1,27 +1,21 @@
-### Pixel Intensity Histogram:
+## Pixel Intensity Histogram Fit
 
-#### Curve 1
+#### Curve 1 (Disordered Peak)
 **Type**: Skewed Gaussian\
-**amplitude** 12439.2\
-**mean**: 123.0\
-**σ1**: 33.3\
-**σ2**: 13.4
+**amplitude:** 12000.0\
+**center** 127.2\
+**σ** 30.0
+**σ2** 12.0
 
-#### Curve 2
-**Type:** Gaussian\
-**amplitude:** 3352.1\
-**mean:** 150.0\
-**σ:** 19.6
+
+#### Curve 2 (Ordered Peak)
+**Type**:Gaussian\
+**amplitude** 1000.0\
+**center** 169.5\
+**σ** 15.0\
+
 
 ### S<sup>2</sup>
-Due to the center of curve 1 being within 1σ of the center of
-curve 2, the threshold taken 1σ above the mean of curve 2.
-
-Due to the sharp distribution of pixel intensity between
-169 and 170, the average value of their S<sup>2</sup> values
-was used to obtain the S<sup>2</sup> of this film.
-
-
 
 **Threshold Value:** 169\
 **Area:** 3.15%\

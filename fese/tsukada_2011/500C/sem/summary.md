@@ -2,16 +2,16 @@
 
 #### Curve 1 (Disordered Peak)
 **Type**: Gaussian\
-**amplitude:** 57808.9\
-**center** 72.2\
-**σ** 2.3
+**amplitude:** 23807.3\
+**center** 35.0\
+**σ** 4.2
 
 
-#### Curve 2 (Ordered Peak)
+#### Curve 1 (Ordered Peak)
 **Type**: Gaussian\
-**amplitude** 10212.5\
-**center** 77.9\
-**σ** 5.2
+**amplitude** 4227.7\
+**center** 52.5\
+**σ** 12.3
 
 
 ## S<sup>2</sup>

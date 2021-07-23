@@ -28,7 +28,7 @@
 
 ### Reference
 SEM image from Figure 1b of Muranaka et al.\
-T<sub>C</sub> from Figure 8a
+T<sub>C</sub> from Figure 8
 
 
 T. Muranaka, K. Kobashi, H. Okabe, T. Tachibana, Y. Yokota, K. Hayashi, N. Kawakami, and J. Akimitsu, Diamond and Related Materials 20, 1273 (2011).\

@@ -5,7 +5,7 @@ S2,TC,Reference Folder,Sample Folder
 0.1815,1.66,mares_2007,tc1.66
 0.1341,3.5,mandal_2010,tc3.5
 0.1106,2.5,muranaka_2011,group1
-0.1192,2.75,muranaka_2011,group2
+0.1188,2.75,muranaka_2011,group2
 0.1243,3,muranaka_2011,group3
 0.1523,4.2,takano_2004,tc4.2
 0.1954,2.4,umezawa_2007,b1per
@@ -16,6 +16,6 @@ S2,TC,Reference Folder,Sample Folder
 0.2343,6,wang_2009,5kpa
 0.1675,1.11,zhang_2011,1p
 0.1706,1.204,zhang_2001,2p
-0.1750,1.37,zhang_2001,3p
+0.175,1.37,zhang_2001,3p
 0.1802,1.63,zhang_2001,4p
 0.1842,1.8,zhang_2001,5p

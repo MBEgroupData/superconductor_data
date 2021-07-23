@@ -1,28 +1,25 @@
 ## Pixel Intensity Histogram Fit
 
 #### Curve 1 (Disordered Peak)
-**Type**: Gaussian\
-**amplitude** 2303.31\
-**center**: 76.0\
-**σ**: 47.01
+**Type**: Skewed Gaussian\
+**amplitude:** 2669.2\
+**center** 74.0\
+**σ** 30.0
+**σ2** 25.9
+
 
 #### Curve 2 (Ordered Peak)
-**Type**: Gaussian\
-**amplitude** 2975.44\
-**center**: 130\
-**σ**: 30.72
-
+**Type**:Skewed Gaussian\
+**amplitude** 3949.0\
+**center** 120.0\
+**σ** 20.5\
+**σ2** 36.1
 
 
 ## S<sup>2</sup>
 
-Due to distance between the ordered and disordered peaks, the
-threshold value was taken at a the pixel value
-1σ below the center of the ordered peak.
-
 **Threshold Value:** 99\
 **Ordered Area Percentage:** 54.60%
-
 
 **Threshold Value:** 100\
 **Ordered Area Percentage:** 53.77%
@@ -38,7 +35,6 @@ SEM image from Figure 4.1.3a Su\
 T<sub>C</sub> given in Figure 4.1.5b of Su
 
 
-J. Su, Fabrication and Characterization of Mercurocuprate Superconductors on Silver Substrates, Ph.D., The Florida State University, 2004.
 J. Su, Fabrication and Characterization of Mercurocuprate Superconductors on Silver Substrates, Ph.D., The Florida State University, 2004.
 ProQuest document ID   305184063
 Dissertation/thesis number  3137491

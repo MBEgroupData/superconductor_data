@@ -28,7 +28,7 @@
 
 ### Reference
 SEM image from Figure 3c of Muranaka et al.\
-T<sub>C</sub> from Figure 8c
+T<sub>C</sub> from Figure 8
 
 
 

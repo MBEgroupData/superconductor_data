@@ -1,28 +1,26 @@
-## Pixel Intensity Histogram Fit
+### Pixel Intensity Histogram Fit
 
 #### Curve 1 (Disordered Peak)
-**Type**: Gaussian\
-**amplitude** 7987.7\
-**center**: 88\
-**σ**: 8.3
+**Type**: Skewed Gaussian\
+**amplitude:** 8543.8\
+**center** 85.0\
+**σ** 6.1
+**σ2** 12.1
+
 
 #### Curve 2 (Ordered Peak)
-**Type**: Gaussian\
-**amplitude** 870.4\
-**center**: 116\
-**σ**: 31.0
-
+**Type**:Skewed Gaussian\
+**amplitude** 600.0\
+**center** 147.0\
+**σ** 41.5\
+**σ2** 40.0
 
 
 ## S<sup>2</sup>
-
-Since the center of curve 1 is within 1σ of the center of curve 2,
-the threshold value is taken 1σ above the center of curve 2.
-
 **Threshold Value:** 147\
-**Ordered Area Percentage:** 23.07%
-
+**Ordered Area Percentage:** 23.07%\
 **S<sup>2</sup>:** 0.2307
+
 
 ## T<sub>C</sub>
 **T<sub>C</sub>:** 16.4 K

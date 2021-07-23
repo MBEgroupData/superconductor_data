@@ -16,7 +16,7 @@
 
 ## S<sup>2</sup>
 
-**Threshold Value:** 212\
+**Threshold Value:** 211\
 **Ordered Area Percentage:** 4.38%
 
 
