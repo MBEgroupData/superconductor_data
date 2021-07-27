@@ -34,6 +34,8 @@ https://doi.org/10.1016/j.tsf.2005.04.099
 [1] K. Kwasnitza, A. V. Narlikar, H. U. Nissen, and D. Salathé, Cryogenics 20, 715 (1980).\
 https://doi.org/10.1016/0011-2275(80)90026-0
 
+[2]G. Rosaz, S. Calatroni, F. Leaux, F. Motschmann, Z. Mydlarz, M. Taborelli, and W. Vollenberg, Development of Nb3Sn Coatings by Magnetron Sputtering for SRF Cavities, Proceedings of the 17th International Conference on RF Superconductivity SRF2015, 4 pages (2015). https://doi.org/10.18429/JACOW-SRF2015-TUPB051
+
 
 ## Nb3Ge
 
@@ -67,6 +69,8 @@ https://doi.org/10.1016/j.jallcom.2018.01.248
 [5] K. A. Yates, G. Burnell, Z. Lockman, A. Kursumovic, J. L. MacManus Driscoll, and M. G. Blamire, Journal of Physics and Chemistry of Solids 67, 333 (2006).\
 (https://doi.org/10.1016/j.jpcs.2005.10.114)
 
+[6] C. Terzioglu, A. Varilci, and I. Belenli, Investigation of Effect of Annealing Temperature on Mechanical Properties of MgB2, Journal of Alloys and Compounds 478, 836 (2009). https://doi.org/10.1016/j.jallcom.2008.12.044
+
 ## Hg-based Cuprate
 
 [1] W. N. Kang, R. L. Meng, and C. W. Chu, Appl. Phys. Lett. 73, 381 (1998).\
@@ -93,6 +97,9 @@ https://doi.org/10.1016/j.jallcom.2014.09.045
 
 [4] A. Tsukada, K. E. Luna, R. H. Hammond, M. R. Beasley, J. F. Zhao, and S. H. Risbud, Appl. Phys. A 104, 311 (2011).\
 https://doi.org/10.1007/s00339-010-6136-8
+
+[5]A. U. Ubale, N. R. Welekar, and A. V. Mitkari, Effect of Annealing on Physical Properties of CBD Synthesized Nanocrystalline FeSe Thin Films, Materials Science in Semiconductor Processing 27, 280 (2014). http://dx.doi.org/10.1016/j.mssp.2014.06.03
+
 
 
 ## Boron-doped Diamond
